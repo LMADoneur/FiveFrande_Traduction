@@ -1,9 +1,9 @@
-# FIVREFRANCE FIVEM ADDONS TRANSLATIONS
+# FIVEM ADDONS TRANSLATIONS
 
 ## Translators team:
 
 * LMA.Doneur | http://steamcommunity.com/id/doneur
-* Kyomini | 
+* Kyomini | http://steamcommunity.com/id/Kyomini/
 * Marceau | https://steamcommunity.com/id/skorpiox/
 * Gabz | https://steamcommunity.com/profiles/76561193939910220
 * NicolasStr_ | http://steamcommunity.com/id/nicolasstr_/
