@@ -19,4 +19,5 @@ https://fivefrance.fr/topic/11/%C3%A9quipe-de-traduction
 ## Comment télécharger un script ?
 
 **EN**Simply download pack on top right of git repo and simply upload the needed ressource on your server (like an habitual ressource)
+
 **FR**Utilise le bouton *Clone or Download* ou utilise *Downgit*
